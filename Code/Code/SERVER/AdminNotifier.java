@@ -2,7 +2,6 @@ package SERVER;
 
 public class AdminNotifier {
 
-	private int outgoing_fd;
 
 	public void connect() {
 		// TODO - implement AdminNotifier.connect

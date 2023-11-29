@@ -2,8 +2,6 @@ package CHARACTER;
 
 public class Character {
 
-	private int location;
-	private int state;
 
 	public void loadFromDB() {
 		// TODO - implement Character.loadFromDB

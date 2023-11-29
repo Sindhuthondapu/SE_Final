@@ -6,7 +6,6 @@ public class Game {
 
 	maintanceStartegy game;
 	AdminNotifier brodcast;
-	private int closetime;
 
 	public void requestPlay() {
 		// TODO - implement Game.requestPlay

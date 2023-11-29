@@ -2,7 +2,6 @@ package SERVER;
 
 public class PlayerManager {
 
-	private int player_sockets;
 	private int awaken_for_player;
 
 	public int getAwaken_for_player() {

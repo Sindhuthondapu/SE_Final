@@ -2,9 +2,6 @@ package PLAYER;
 
 public class Player {
 
-	private int socket;
-	private int state;
-	private int lastContactTime;
 
 	public void loadFromDB() {
 		// TODO - implement Player.loadFromDB
