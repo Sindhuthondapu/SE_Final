@@ -2,7 +2,6 @@ package SERVER;
 
 public class AdminHandler {
 
-	private int incoming_fd;
 
 	public void connect() {
 		// TODO - implement AdminHandler.connect

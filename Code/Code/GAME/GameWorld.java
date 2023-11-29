@@ -2,9 +2,6 @@ package GAME;
 
 public class GameWorld {
 
-	private int locationObstacles;
-	private int locationObjects;
-	private int locationCharacters;
 
 	public void loadFromDisk() {
 		// TODO - implement GameWorld.loadFromDisk

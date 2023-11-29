@@ -2,7 +2,6 @@ package SERVER;
 
 public class GameManager {
 
-	private int gameCloseTimes;
 
 	public void openCurrentGames() {
 		// TODO - implement GameManager.openCurrentGames

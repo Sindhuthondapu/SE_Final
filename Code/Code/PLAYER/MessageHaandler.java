@@ -2,8 +2,6 @@ package PLAYER;
 
 public class MessageHaandler {
 
-	private int socket;
-	private int buffer;
 
 	public void read() {
 		// TODO - implement MessageHaandler.read
